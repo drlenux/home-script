@@ -1,2 +1,2 @@
 build:
-	echo "init"
+	echo "init 1"
